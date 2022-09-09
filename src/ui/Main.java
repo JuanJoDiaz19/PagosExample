@@ -17,5 +17,6 @@ public class Main {
         } catch (InvalidAmmountException ex){
             ex.printStackTrace();
         }
+        System.out.println("Hello World");
     }
 }
